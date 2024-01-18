@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "aplikasi-perpustakaan-81f0b",
+  "private_key_id": "33b18f397515597508e0d9a8211423601c58e3ae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC3DtEIpSDkRHsl\nNg9dpSheNgSLT2W0MDbwFHJw4uPvUjN6Is/MkS6lhYx7yqXn3TOmaxcB27fWuYfH\nsRvrhDP6CJ/LIr8r/sadxdhyVtj6HEN9kITg1a8O+RMaqVBw5iXWB6SeU2En7YhM\nzFVrptKa9NW9CfYFd220BZCXidLnC7iXFMLg95CYGzLioy8w0Ld1cqRRRDj7/PRY\nwtJWdM2/LBDOWtHmhLYGcieeMndQ3yAPUP9HjMI1mqemnWtwW1d/0gbK/5Ah/2NM\nn/FG9GTlMJsuxjqD5rijophNNro+HrUIVSlmmvRTU2P4LX8JCAAQej/9t2mLnC/R\nnugNnHlLAgMBAAECggEAMxSj2M03PessD8ijhgaRmqRpJTSNFThFBD44Zu6xGvVt\nnt267YLvqMl414xHOkmb4YrNezvD81uHG358433bASDJ8iWqgczQwHLWQKWiWzxq\nys16fsCx3jQ7k/t+ElruYOh2E6YBnOIn4AI+rdD5wLqkL+FpMMJQLuVEoTyYyNag\nIdP4buYpLuxVc+NSPL8hKKwzdGKFDLwP0yYg0w12MD0cR96Yk66ojY47XOkOtDzW\nwdk+n4K5EEeItjLhTmyAHb1Ne+5bhTx7dozBfR+orxHQNDn848Dr1dO+trahs0yp\nR0HcQRND/0MtNGyO9f9cu4ObLX7hX4XIKv8DLL0jjQKBgQDb7axqc6ntCM7PX6zb\nV2adN4UaTAoIRW28MX1VCF4w46lvD492lvhuxpDSI8IfcoAv2YNQ63PZSrFGOreJ\niIuK5YHs1RSDLbvsT32Pcg9Mnt9hftNjjnmcdcd+pndk9rOmY8PCWrFcmpiLaZhO\nyuEoqzPjEJLcnsRX8IP5JuKjpwKBgQDVFQcUSlq4L4FpB+ramWL260vBUiEQS7TR\nn90C1BYT0KZwpwFimaHnJVsWkQF480UshUmjrqY++WRREVxL+59bPQ4dn/8sn++M\nFZRxRhfAZu1ZJ9noD8gCSswCVIkcUcsJqRSh7sRcvrY73KKtgHOkRG+ywe2dXGVl\nEM2TCeoBvQKBgDfbbI/44m6ebxBCR3/J+fjyMe8U4vNo1s8WbrObFXkrSUw40oIX\nI+/WpM+KX3JnPWFpyC1UL68/hjjFDvpyYKadVdtV3wjWI8WIBubY3EPkke2MLZo6\nhG6Vh16GXwqYkdYvvndtW2CeryGxZwqUAo22tc301qgL9ugy4QH1u1g/AoGANh11\nAs4vY/+MmiQMnR+/Zn4zaxF0nDLd5S74bjN2t+mRm6KOU4A5Af8WtxB0k0cVFk1z\nekJsrimgNIZ4LkPlIMLMxvFPWQH1UFparLnkZlS9ipr4WFtJrGtajGzztWGAcx+h\nwc5lyDgXB/Tsy6uHsvw+ceOWeRRyG8y8qM8nwvECgYBO+0CyAqco2EE0F0fVygu1\n2bAxsU0tyOVUBx1jwjXfIHVOrZRLfNMeUb3jzTl8kn73TOq2K95r+pXXns+tcgds\n1h8Iq0yV6D/xLmTGSCDCrxEe2lakYyO4gCOWvdaNBo3/u6uK1E3pmXVCs51PvPdD\nh/cDlxCMXJ/eLGwDKoy71w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-84q24@aplikasi-perpustakaan-81f0b.iam.gserviceaccount.com",
+  "client_id": "118091408585474318852",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-84q24%40aplikasi-perpustakaan-81f0b.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
